@@ -1,5 +1,9 @@
-h1{
+span{
     color: #4E342E;
     text-align: center;
     border: 2px dotted #0277BD;
+    padding: 2px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
